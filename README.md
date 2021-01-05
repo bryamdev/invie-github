@@ -1,2 +1,2 @@
 # invie-github
-Tienda online de guitarras futuristas
+Tienda online de guitarras futuristas by @titan_rojas
